@@ -2,6 +2,6 @@
 
 Paste the script tag below to add it on project.
 
-```
+```html
 <script defer type="text/javascript" src="https://bahadiryildizosf.github.io/merchants-courier-dist/main.js"></script>
 ```
